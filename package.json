@@ -1,0 +1,14 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "test": "abaplint src/*.abap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larshp/abapGit.git"
+  },  
+  "devDependencies": {
+    "abapmerge": "^0.6.2",
+    "abaplint": ">=0.26.7"
+  }
+}
